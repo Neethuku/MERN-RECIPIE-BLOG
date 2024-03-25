@@ -9,7 +9,7 @@ function FooterComponent() {
             <div className="grid w-full justify-between sm:flex md:grid-cols-1">
                 <div className="mt-5">
                 <Link to="/" className="self-center whitespace-nowrap text-lg sm:text-xl font-semibold dark:text-white">
-                 <span><i className="fa-solid fa-b fa-bounce fa-sm"></i></span>logVista
+                <span><i className="fa-solid fa-d fa-bounce fa-sm"></i></span>ish <span><i className="fa-solid fa-d fa-bounce fa-sm"></i></span>elight
                 </Link> 
                 </div>
                 <div className="grid grid-cols-2 gap-8 mt-4 sm:grid-cols-3 sm:gap-6">
